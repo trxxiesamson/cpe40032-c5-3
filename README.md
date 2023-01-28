@@ -3,6 +3,6 @@ Challenge 5 | Whack-a-food | Compilation of codes
 
 Group 3
 
-AZUELA, Julliane Maeve
+AZUELA, Julliane Maeve \n
 CARANDANG, Kyle Kryzel
 SAMSON, Trixie Mae
